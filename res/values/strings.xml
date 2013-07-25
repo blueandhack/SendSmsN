@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SendSmsN</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="PhoneNumber">请输入手机号</string>
+    <string name="SmsText">请输入短信内容</string>
+    <string name="SendTimes">请输入要发送的次数</string>
+    <string name="Send">确定发送</string>
+
+</resources>
